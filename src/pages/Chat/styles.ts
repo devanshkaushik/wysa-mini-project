@@ -14,7 +14,6 @@ export const StyledChat = styled.div`
     display: flex;
     flex-direction: column;
     gap: 20px;
-    height: 70vh;
     overflow-y: auto;
     padding: 0 20px;
     margin-bottom: 50px;
