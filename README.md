@@ -19,7 +19,7 @@ Changing the themes and setting custom colors
 
 ## Available Scripts
 
-Close the repository and in the project folder you can run the following scripts
+Clone the repository and in the project folder you can run the following scripts
 
 ### `npm start`
 
